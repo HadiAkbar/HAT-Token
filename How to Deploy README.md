@@ -1,4 +1,4 @@
-Delete all the files in workspace and create a new file and name it (Your Token Name).so, e.g HAT.sol.
+Delete all the files in workspace and create a new file and name it (Your Token Name).sol , e.g HAT.sol.
 Paste the whole code in it.
 Go to line 228 ,and change the name from HAT to anything you want ( but dont give space in name ).
 Then compile the code.
